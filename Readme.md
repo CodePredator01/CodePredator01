@@ -99,7 +99,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodePredator01&custom_title=Most Used Languages &layout=compact&theme=algolia&langs_count=10" alt="CodePredator01" /></p>
 </details> <br>
-
 <img height="27" src="https://img.shields.io/badge/Priyanshu Vishwakarma's GitHub Stats - 😊-red.svg?&style=for-the-badge&logo=CodePredator01&logoColor=blue" /> <br> 
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
