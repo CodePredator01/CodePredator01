@@ -3,7 +3,7 @@
 
 <!--[![image](https://www.linkpicture.com/q/codee.png)](https://www.linkpicture.com/view.php?img=LPic6051dd370afe61450011312)-->
 <p align="center">
-<img align="left" alt="GIF" src="https://www.linkpicture.com/q/codee.png" width="370" height="243" /><img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="390" height="243" />
+<img align="left" alt="GIF" src="https://www.linkpicture.com/q/codee.png" width="390" height="243" /><img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="390" height="243" />
 </p>
  
 **I am CS undergrad at <i>GLA UNIVERSITY MATHURA</i>, currently I am in 2<sup>nd</sup> year.**
