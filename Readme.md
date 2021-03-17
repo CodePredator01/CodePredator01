@@ -27,10 +27,7 @@
 - 💻 My average typing speed is 48WPM
 - <img src="Assets/Earth.gif" height="20px"> EARTH is <b>not</b> flat
 -----
-
-
-<!--<img src="https://komarev.com/ghpvc/?username=CodePredator01&color=blue&style=flat&label=PROFILE+VIEWS"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/CodePredator01?style=social"/> [![Years Badge](https://badges.pufler.dev/years/CodePredator01)](https://badges.pufler.dev) [![Repositries Badge](https://badges.pufler.dev/repos/CodePredator01)](https://badges.pufler.dev)  [![Commits Badge](https://badges.pufler.dev/commits/monthly/CodePredator01)](https://badges.pufler.dev)-->
-
+  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CodePredator01&color=blue&style=flat&label=PROFILE+VIEWS"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/CodePredator01?style=social"/> <a href="https://github.com/CodePredator01" target="_blank">
     <img src="https://badges.pufler.dev/years/CodePredator01"/>
