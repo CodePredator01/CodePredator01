@@ -86,6 +86,7 @@
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/CodePredator01)*
 
+<img height="27" src="https://img.shields.io/badge/Priyanshu Vishwakarma's GitHub Stats - 😊-red.svg?&style=for-the-badge&logo=CodePredator01&logoColor=blue" /> <br>  
 <details align="left">
   <summary>GitHub Trophies 🏆</summary>
 <p align="left">
@@ -99,12 +100,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodePredator01&custom_title=Most Used Languages &layout=compact&theme=algolia&langs_count=10" alt="CodePredator01" /></p>
 </details> <br>
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=CodePredator01&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats" />
-</a><br>
-
-<img height="27" src="https://img.shields.io/badge/Priyanshu Vishwakarma's GitHub Stats - 😊-red.svg?&style=for-the-badge&logo=CodePredator01&logoColor=blue" />
-  
+</a> 
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodePredator01&layout=compact&theme=algolia" alt="CodePredator01" /> <br>
 
 
