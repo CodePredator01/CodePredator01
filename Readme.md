@@ -2,9 +2,11 @@
 <!--[![image](https://www.linkpicture.com/q/Illegenix_3.png)](https://github.com/CodePredator01/CodePredator/tree/main)-->
 
 <!--[![image](https://www.linkpicture.com/q/codee.png)](https://www.linkpicture.com/view.php?img=LPic6051dd370afe61450011312)-->
-<p align="center">
+<img alt="GIF" src="https://media.giphy.com/media/AIm0LQybAUClHuaCuz/giphy.gif" width="750" height="240"/>  
+<br>  
+<!--<p align="center">
 <img align="left" alt="GIF" src="https://www.linkpicture.com/q/codee.png" width="410" height="243" /><img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="243" />
-</p>
+</p>-->
  
 **I am CS undergrad at <i>GLA UNIVERSITY MATHURA</i>, currently I am in 2<sup>nd</sup> year.**
 - 🌱 I’m currently learning **Flutter, competitive coding, data structures and algorithms**
