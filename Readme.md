@@ -111,7 +111,7 @@
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodePredator01&layout=compact&theme=algolia" alt="CodePredator01" /> <br>
 
 
-![Priyanshu's github activity graph](https://activity-graph.herokuapp.com/graph?username=CodePredator01&theme=dracula&layout=compact&title_color=FF69B4)
+<!-- ![Priyanshu's github activity graph](https://activity-graph.herokuapp.com/graph?username=CodePredator01&theme=dracula&layout=compact&title_color=FF69B4) -->
 <hr>
 <pre align=center> 
                 __                            __         __                
