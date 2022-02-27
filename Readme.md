@@ -8,7 +8,7 @@
 <img align="left" alt="GIF" src="https://www.linkpicture.com/q/codee.png" width="410" height="243" /><img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="243" />
 </p>-->
  
-**I am CS undergrad at <i>GLA UNIVERSITY MATHURA</i>, currently I am in 3<sup>nd</sup> year.**
+**I am CS undergrad at <i>GLA UNIVERSITY MATHURA</i>, currently I am in 3<sup>rd</sup> year.**
 - 🌱 I’m currently learning **Flutter, competitive coding, data structures and algorithms**
 - 🔭 I’m currently working on [hackerearth](https://www.hackerearth.com/@Codepredator01)
 - 👨‍💻 All of my projects are available <a href="https://github.com/CodePredator01?tab=repositories">here</a>
