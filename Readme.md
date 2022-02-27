@@ -9,7 +9,7 @@
 </p>-->
  
 **I am CS undergrad at <i>GLA UNIVERSITY MATHURA</i>, currently I am in 3<sup>rd</sup> year.**
-- 🌱 I’m currently learning **Flutter, competitive coding, data structures and algorithms**
+- 🌱 I’m currently learning **Competitive coding, data structures and algorithms**
 - 🔭 I’m currently working on [hackerearth](https://www.hackerearth.com/@Codepredator01)
 - 👨‍💻 All of my projects are available <a href="https://github.com/CodePredator01?tab=repositories">here</a>
 - 😊 Willing to contribute in opensource projects.
