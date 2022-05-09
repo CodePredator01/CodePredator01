@@ -2,7 +2,7 @@
 <!--[![image](https://www.linkpicture.com/q/Illegenix_3.png)](https://github.com/CodePredator01/CodePredator/tree/main)-->
 
 <!-- [![image](https://www.linkpicture.com/q/codee.png)](https://www.linkpicture.com/view.php?img=LPic6051dd370afe61450011312) -->
-<img alt="Priyanshu Profile" src="https://www.linkpicture.com/q/code-name.gif" width="850" height="260"/>  
+<img alt="Priyanshu Profile" src="gitprofile.gif" width="850" height="260"/>  
 <br>  
 <!--<p align="center">
 <img align="left" alt="GIF" src="https://www.linkpicture.com/q/codee.png" width="410" height="243" /><img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="243" />
