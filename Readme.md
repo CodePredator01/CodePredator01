@@ -1,7 +1,7 @@
 <!--# Hi there, <img src="Assets/Hi.gif" height="32px"> I'm [Priyanshu Vishwakarma!](https://github.com/CodePredator01)
 <!--[![image](https://www.linkpicture.com/q/Illegenix_3.png)](https://github.com/CodePredator01/CodePredator/tree/main)-->
 
-[![image](https://www.linkpicture.com/q/codee.png)](https://www.linkpicture.com/view.php?img=LPic6051dd370afe61450011312)
+<!-- [![image](https://www.linkpicture.com/q/codee.png)](https://www.linkpicture.com/view.php?img=LPic6051dd370afe61450011312) -->
 <img alt="Priyanshu Profile" src="https://www.linkpicture.com/q/code-name.gif" width="850" height="260"/>  
 <br>  
 <!--<p align="center">
